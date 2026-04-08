@@ -1,5 +1,5 @@
 # ADPN Proxy System
-
+**CREATOR: NICHOLAS M. GROSSI**
 ## Overview
 
 **ADPN Proxy System** is a deterministic, high-integrity proxy architecture developed by Axiom Hive for secure, scalable, and verifiable data routing in advanced AI and business frameworks. This repository showcases original engineering, transparent validation, and purpose-driven design for professional and public collaboration.
